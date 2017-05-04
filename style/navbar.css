@@ -1,0 +1,25 @@
+.navbar {
+  border: 2px solid;
+  border-color: currentColor;
+  margin: 20px;
+  background-color: #ff3333;
+}
+
+.sections a {
+  display: inline;
+  margin: 30px;
+  color: black;
+}
+
+.sections {
+  display: inline;
+  right: 0px;
+  position: absolute;
+  margin-top: 10px;
+  margin-right: -50px;
+}
+
+.navbar-header h3 {
+  color: black;
+  margin-left: -50px;
+}
