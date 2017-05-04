@@ -1,8 +1,9 @@
 .navbar {
+  border-radius: 20px;
   border: 2px solid;
-  border-color: currentColor;
   margin: 20px;
   background-color: #ff3333;
+  position: relative;
 }
 
 .sections a {
@@ -16,10 +17,11 @@
   right: 0px;
   position: absolute;
   margin-top: 10px;
-  margin-right: -50px;
+  margin-right: -20px;
 }
 
 .navbar-header h3 {
   color: black;
-  margin-left: -50px;
+  margin-left: -15px;
+  margin-top: 5px;
 }
