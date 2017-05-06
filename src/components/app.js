@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import Header from '../components/header';
 import Navbar from '../components/navbar';
+import About from '../components/about';
+import Education from '../components/education';
+import Technologies from '../components/technologies';
 
 export default class App extends Component {
 
@@ -9,38 +12,9 @@ export default class App extends Component {
       <div>
         <Navbar />
         <Header />
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
-        <p>Hello</p>
+        <About />
+        <Education />
+        <Technologies />
       </div>
     );
   }

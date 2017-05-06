@@ -1,0 +1,35 @@
+.grey-box {
+  background-color: #e6e6e6;
+  height: 200px;
+  margin: 20px;
+}
+
+.eduLogos {
+  height: 130px;
+  width: 130px;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+
+#educationSection {
+  margin-top: 40px;
+  border-bottom: #ffa31a solid 2px;
+}
+
+.grey-box-school {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 22px;
+  margin-left: 60px;
+}
+
+.grey-box-date {
+  text-align: right;
+  margin-top: 80px;
+  margin-right: -80px;
+  font-size: 22px;
+}
+
+#grey-box-bottom {
+  margin-bottom: 60px;
+}

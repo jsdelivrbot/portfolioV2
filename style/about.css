@@ -1,0 +1,21 @@
+#aboutSection {
+  margin-top: 40px;
+  border-bottom: #ffa31a solid 2px;
+}
+
+.aboutPar {
+  font-size: 20px;
+  text-indent: 40px;
+  margin-bottom: 30px;
+}
+
+#aboutPar-bottom {
+  margin-bottom: 60px;
+}
+
+.section {
+  text-align: center;
+  text-decoration: none;
+  word-spacing: 3px;
+  line-height: 1.8;
+}
