@@ -1,8 +1,21 @@
 .skills {
   display: inline;
-  margin: 20px;
+  color: #e6b800;
+  margin: 40px;
+  padding: 10px;
+  border: 1px ridge  #e6b800;
+  border-radius: 10px;
+}
+
+.skills:hover {
+  color: #cc0066;
+  border: 1px ridge #cc0066;
 }
 
 #technologiesSection {
   margin-top: 40px;
+}
+
+#skills {
+  margin-top: 10px;
 }

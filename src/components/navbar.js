@@ -4,7 +4,7 @@ class Navbar extends Component {
 
   render() {
     return (
-      <nav role="navigation" className="navbar navbar-default navbar-fixed-top">
+      <nav role="navigation" className="navbar navbar-default navbar-fixed-top rounded">
         <div className="containerNavBar" id="navbar-container">
             <div className="col-md-3">
               <div className="navbar-header">

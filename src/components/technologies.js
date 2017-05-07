@@ -12,7 +12,7 @@ class Technologies extends Component {
             <h2>Languages:</h2>
           </div>
 
-          <div className="col-md-9">
+          <div className="col-md-7 col-md-offset-1" id="skills">
             <p className="skills">Javascript</p>
             <p className="skills">Rails</p>
             <p className="skills">Java</p>
@@ -25,5 +25,7 @@ class Technologies extends Component {
     );
   }
 }
+
+// make it a container and have it render the list
 
 export default Technologies;

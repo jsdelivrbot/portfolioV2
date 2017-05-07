@@ -1,10 +1,13 @@
 .navbar {
-  border-radius: 20px;
-  border: 2px solid;
   margin: 20px;
   margin-top: 10px;
   background-color: #ff3333;
   position: relative;
+  border: 2px solid black;
+}
+
+[data-role=navbar] {
+     border-radius: 30px;
 }
 
 .sections a {
